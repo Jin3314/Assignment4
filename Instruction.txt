@@ -1,0 +1,2 @@
+********Instruction
+if you run main(asset), press ctrl+shift+b and drag two scenes(main and menu) and put to the build.
